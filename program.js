@@ -1,3 +1,4 @@
+// program.js
 var steps = [[0,0],[0,1],[5,5]]
 var gridSize = 10
 
